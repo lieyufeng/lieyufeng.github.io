@@ -23,6 +23,7 @@
 <script type="text/javascript" src="https://code.jquery.com/jquery.min.js"></script>
 <script type="text/javascript" src="https://getbootstrap.com/dist/js/bootstrap.js"></script>
 <link type="text/css" rel="stylesheet" href="https://getbootstrap.com/dist/css/bootstrap.css">
+  <link type="text/css" rel="stylesheet" href="animate.css">
 <title>HTML5, CSS3 and JavaScript demo</title>
 </head>
 <body>
@@ -45,7 +46,7 @@
 
     </div>
     <div class="-col-md-9">
-      <h1>你的名字 君の名は</h1>
+      <h1 class="rollout">你的名字 君の名は</h1>
     <div id="intro">
       <p>迪亞馬特彗星每逢1200年造訪地球，某天住在東京四谷的少年立花瀧、飛驒深山中糸守鎮的少女宮水三葉，只要睡覺或半夢半醒之際，就會靈魂互換，醒來什麼都不記得，感覺像做了奇妙的夢。但他倆很快意識到這種情形，困惑之中開始在彼此智慧型手機留言或安排行事曆，逐漸地變得習慣於身體切換，並干預對方的生活。三葉不僅樂於所嚮往的東京生活，也幫助瀧更接近其打工的美女學姊奧寺，促成與她約會；而瀧以陽剛的形象，幫助三葉在她的學校更受歡迎。
 三葉（實際是瀧）和妹妹四葉、祖母一起徒步至山上宮水神社的「御神體」，途中祖母告訴她們土地神「産霊＝ムスビ＝結」，可以連結人與時間，因此宮水代代巫女都編織結繩來體現，水酒等進入人體也能形成連結。參拜破火山口型窪地[註 3]上「隱世」（カクリヨ）的御神體，並以三葉的口嚼酒為半身獻祭。回程祖母發覺三葉有異。
@@ -68,24 +69,35 @@
     <li data-target="#carousel-example-generic" data-slide-to="2"></li>
   </ol>
 
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+  </ol>
+
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="HNCK1587.jpg" alt="aircraft">
+      <img src="HNCK1551.jpg" alt="...">
       <div class="carousel-caption">
-        ...
+        
       </div>
     </div>
     <div class="item">
-      <img src="HNCK1551.jpg" alt=aircraft">                                    
+      <img src="0000 (2).jpg" alt="...">
       <div class="carousel-caption">
-         <div class="item active">
-      <img src="0000 (2).jpg" alt="aircraft">
-      <div class="carousel-caption">
+        
       </div>
     </div>
-    ...
-  </div>
+    <div class="item">
+      <img src="HNCK1587.jpg" alt="...">
+      <div class="carousel-caption">
+        
+      </div>
+    </div>
+      </div>
 
   <!-- Controls -->
   <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
