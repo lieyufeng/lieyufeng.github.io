@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<title>吃吧吃吧~~</title>
+  <body background="背景4.jpg">
+<h1><p align="center"><font color="blue" <font face="標楷體"
+  <strong>台灣東部美食</strong></h1>
+
+</head>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<a class="btn btn-default" href="台灣小吃.html" role="button"><p align="center"><font color="orange" <font face="標楷體"<font size="10">台灣小吃大集合</a>
+<a class="btn btn-default" href="北部美食.html" role="button"><font color="orange" <font face="標楷體"<font size="10">北部美食</a>
+<a class="btn btn-default" href="中部美食.html" role="button"><font color="orange" <font face="標楷體"<font size="10">中部美食</a>
+<a class="btn btn-default" href="南部美食.html" role="button"><font color="orange" <font face="標楷體"<font size="10">南部美食</a>
+<hr align="left" size="10" width="100%" noshade>
+<br>
+<p1><p align="center"><font color="red" <font face="標楷體"<font size="5"<b>
+  東部因隔一座山的原因，所以有了獨特的飲食文化，有著北中南不一樣的口味。</b></p1>
+  <br>
+  <figure>
+<img src="東部1.jpg" border="2" height="175" width="200">
+  </figure>
+<P2><p align="left"><font color="black" <font face="標楷體"<font size="4"<b>玉里-張太太美食玉里麵</b><br>
+從外觀看起來，黃麵加上肉燥以及韭菜、豆芽，這不就是一碗普通的乾麵嗎?
+據說玉里的麵食歷史是來自於日本殖民台灣時期，把拉麵文化帶進玉里。光復之後，一位福州師傅來台在玉里擺攤賣麵，
+他所賣的大麵受到當地的歡迎，因此得名為玉里麵。不過張媽媽的玉里麵煮得還不錯，一般黃麵煮的乾麵，
+麵條再次加熱後總會偏軟，但這家的黃麵吃起來還是挺有彈性，配著滷肉，味道頗香，也算是不錯的地方小吃。
+<br>
+<figure>
+<img src="東部2.jpg" border="2" height="175" width="200" align="center">
+</figure>
+<P2><p align="left"><font color="black" <font face="標楷體"<font size="4"<b>鳳林-游翁韭菜臭豆腐</b><br>
+韭菜臭豆腐是該店的招牌，可能也是全台僅此一家。其實就是把臭豆腐上的泡菜改成韭菜，大量的韭菜灑上臭豆腐上，
+為臭豆腐增添一抹綠意，視覺效果挺好。好在這裡的韭菜雖然下得多，但出人意料的是韭菜味兒並不太重，
+搭配著油炸的臭豆腐入口，酸甜的醬汁之中有韭菜的清脆，倒是解了炸豆腐的油膩。
+  <br>
+  <figure>
+  <img src="東部3.jpg" border="2" height="175" width="200" align="center">
+  </figure>
+  <P3><p align="left"><font color="black" <font face="標楷體"<font size="4"<b>花蓮-炸蛋蔥油餅</b><br>
+    一份才20元，蔥油餅不是一般的大張圓形蔥油餅，而是小張的圓形蔥油餅，用半油炸的方式做成，
+    折成半圓形的蔥油餅中夾著半熟荷包蛋，餅皮Q而有嚼勁，裡面包著半熟荷包蛋，口感滑潤，
+    兩種口感搭配起來非常好吃，難怪購買人潮眾多，不過比較可惜的是稍微有點油膩，吃完一個後覺得蠻飽的，
+    而且有些膩口，看來是無法吃太多，吃一個就差不多了，不過來花蓮玩的話，倒是可以來吃吃看，價錢便宜又好吃，
+    只是要排隊排很久。
+
+<br>
+<figure>
+<img src="東部4.jpg" border="2" height="175" width="200" align="center">
+</figure>
+<P4><p align="left"><font color="black" <font face="標楷體"<font size="4"<b>宜蘭-糕渣卜肉</b><br>
+卜肉可以說是豬肉版的鹹酥雞，吃起來軟嫩軟嫩的，有一點像椒鹽里肌肉那種感覺，但口感要軟的多。
+糕渣相當的特別，在沒有炸之前是有點像蘿蔔糕那樣，裹粉漿油炸之後，乍看之下有點像炸的蛋豆腐，由於糕渣有水分，
+所以麵衣很容易黏在一起，建議快點吃完，另外就是入口的時候要小心，因為裡面非常的燙，一口咬下，
+糕渣在嘴巴裡溶化，味道鮮美，算是蠻特別的一項小吃。
+<br>
+<audio src="台灣製造.mp3" controls autoplay />
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
